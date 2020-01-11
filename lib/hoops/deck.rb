@@ -9,8 +9,12 @@ module Hoops
       @card = JSON.parse file
     end
 
-    def shuffle_deck(seed=1)
-      @deck.shuffle!(Random.new(seed))
+    def shuffle_deck
+      @deck.shuffle!
+    end
+
+    def count
+      @deck.count
     end
   end
 end

@@ -1,3 +1,12 @@
 { 
-    "title" : "This is a second fast action card" 
+    "id"        : 3,
+    "action"    : "This is a fast action card",
+    "rebound"   : "",
+    "shot_num"  : "",
+    "advance"   : "",
+    "jump_to"   : "",
+    "block"     : "",
+    "z_reading" : "",
+    "press"     : "",
+    "foul_num"  : ""
 }

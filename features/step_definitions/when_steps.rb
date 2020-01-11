@@ -9,6 +9,10 @@ When("I select the top card") do
 end
 
 When("I shuffle the deck") do
-  @deck.shuffle_deck(1)
+  @deck.shuffle_deck
 end
 
+When("I select a card") do
+  @card = @deck.draw
+end
+  
