@@ -1,0 +1,15 @@
+{   "city" : "Golden State",
+    "players" : [
+        {
+            "number" : 30,
+            "last name" : "Curry",
+            "first name" : "Steph"
+        },
+        {
+            "number" : "11",
+            "last name" : "Thompson",
+            "first name" : "Klay"
+        }
+        
+    ]
+}

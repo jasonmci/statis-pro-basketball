@@ -1,8 +1,10 @@
 { 
     "id"        : 1,
-    "action"    : "This is a fast action card",
-    "rebound"   : "",
-    "shot_num"  : "",
+    "action"    : "Pass to PG#1",
+    "rebound"   : "Def PF",
+    "shot_num"  : { "number": 1,
+                    "descr" : " Lane violation voids Free Throw;Team TO"
+                  },
     "advance"   : "",
     "jump_to"   : "",
     "block"     : "",

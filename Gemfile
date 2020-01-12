@@ -7,3 +7,5 @@ gem 'cucumber'
 gem 'rspec'
 gem 'json'
 gem 'minitest'
+gem 'curses'
+

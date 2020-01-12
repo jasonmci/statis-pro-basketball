@@ -1,0 +1,15 @@
+{   "city" : "Los Angeles",
+    "players" : [
+        {
+            "number" : 13,
+            "last name" : "George",
+            "first name" : "Paul"
+        },
+        {
+            "number" : 2,
+            "last name" : "Leonard",
+            "first name" : "Kawhi"
+        }
+        
+    ]
+}

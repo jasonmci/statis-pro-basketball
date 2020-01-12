@@ -5,11 +5,7 @@ module Hoops
       let(:game)   { Game.new(output) }      
       it "sends a welcome message" do
         expect(output).to receive(:puts).with('Start a new basketball game')
-        game.start
-      end
-      it "prompts to select a team" do
-        expect(output).to receive(:puts).with('Select the visiting team: ')
-        game.start
+        game.start('Team1', 'Team2')
       end
     end
   end
